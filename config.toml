@@ -1,4 +1,4 @@
-baseURL = 'http://simcax.dk/'
+baseURL = 'https://www.simcax.dk/'
 languageCode = 'en-us'
 title = 'Simcax.dk - a little corner of my web'
 theme = "ananke"
