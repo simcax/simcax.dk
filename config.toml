@@ -1,0 +1,42 @@
+baseURL = 'http://simcax.dk/'
+languageCode = 'en-us'
+title = 'Simcax.dk - a little corner of my web'
+theme = "ananke"
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "simcax.dk"
+    weight = 1
+    contentDir = "content/en"
+  [languages.dk]
+    title = "Simcax.dk - DK"
+    weight = 2
+    contentDir = "content/dk"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = "Carsten Skov"
+  favicon = ""
+  site_logo = ""
+  description = "Who and where"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+  commentoEnable = true
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/simcax"
+
