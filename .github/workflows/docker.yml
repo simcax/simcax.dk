@@ -43,5 +43,5 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: simcax/dotime:${{ secrets.MAJOR_VERSION }}.${{ secrets.FEATURE_VERSION }}.${{ github.run_number}}
+          tags: simcax/simcax.dk:${{ secrets.MAJOR_VERSION }}.${{ secrets.FEATURE_VERSION }}.${{ github.run_number}}
     
