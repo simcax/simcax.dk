@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://simcax.dk/posts/my-first-post/</loc>
-    <lastmod>2022-03-12T11:51:12+01:00</lastmod>
-  </url><url>
-    <loc>http://simcax.dk/posts/</loc>
-    <lastmod>2022-03-12T11:51:12+01:00</lastmod>
-  </url><url>
-    <loc>http://simcax.dk/</loc>
-    <lastmod>2022-03-12T11:51:12+01:00</lastmod>
-  </url><url>
-    <loc>http://simcax.dk/categories/</loc>
-  </url><url>
-    <loc>http://simcax.dk/tags/</loc>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>https://www.simcax.dk/en/sitemap.xml</loc></sitemap><sitemap><loc>https://www.simcax.dk/dk/sitemap.xml</loc></sitemap></sitemapindex>

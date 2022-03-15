@@ -10,15 +10,6 @@ Paginate = 5 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
-[languages]
-  [languages.en]
-    title = "simcax.dk"
-    weight = 1
-    contentDir = "content/en"
-  [languages.dk]
-    title = "Simcax.dk - DK"
-    weight = 2
-    contentDir = "content/dk"
 
 [sitemap]
   changefreq = "monthly"
@@ -35,7 +26,7 @@ enableRobotsTXT = true
   background_color_class = "bg-mid-gray"
   recent_posts_number = 3
   commentoEnable = true
-
+  mainSections = ['blog', 'docs']
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/simcax"
