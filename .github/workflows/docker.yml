@@ -24,10 +24,6 @@ jobs:
       - name: List
         run: ls -l public
 
-  docker:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
       -
         name: Set up QEMU
         uses: docker/setup-qemu-action@v1
