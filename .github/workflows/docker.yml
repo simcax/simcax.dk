@@ -20,6 +20,9 @@ jobs:
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
         run: hugo --minify
+      
+      - name: List
+        run: ls -l public
 
   docker:
     needs: build
