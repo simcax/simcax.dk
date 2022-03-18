@@ -20,4 +20,19 @@ Vi havde altid været lidt ærgerlige over terassen, men indtil nu havde det ikk
 Det blev så muligt med "Projekt Vandtank".
 ![belægning fjernes](/images/IMG_20210615_185322.jpg)
 
+Jeg havde besluttet mig for at grave hullet selv, i hånden, med en skovl. Over årene har vi fået lavet en masse i haven, og det er ikke længere muligt at få en
+gravemaskine ind til terrassen. Derudover så er det jo god træning! Jorden kunne placeres lidt væk i haven rundt om et pæretræ, hvor restjorden på sigt skulle bruges til et bed.
+
+Den første dag gravede jeg i en 1½ times tid, og det blev til en pæn start. 
+![først dags gravearbejde](/images/IMG_20210616_193846.jpg)
+
+På andendagen fik jeg hjælp af en kollega og hullet blev stille og roligt dybere. 
+![anden dags gravearbejde](/images/IMG_20210617_125855.jpg)
+
+Det blev til ca. 1½-2 timers gravearbejde hver dag, med en enkel eller to hviledage, og en uge senere var hullet dybt nok.
+2x3 meter og 2 meter dybt.
+
+![hullet](/images/IMG_20210623_181123.jpg)
+
+
 ...opdateres :-)
