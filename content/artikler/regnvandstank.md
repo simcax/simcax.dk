@@ -29,10 +29,23 @@ Den første dag gravede jeg i en 1½ times tid, og det blev til en pæn start.
 På andendagen fik jeg hjælp af en kollega og hullet blev stille og roligt dybere. 
 ![anden dags gravearbejde](/images/IMG_20210617_125855.jpg)
 
+Jorden var ikke så slem at grave i, og jeg løsnede jorden med en drænspade, hvorefter det var lige til at smide op i en trillebør med en skovl.
 Det blev til ca. 1½-2 timers gravearbejde hver dag, med en enkel eller to hviledage, og en uge senere var hullet dybt nok.
 2x3 meter og 2 meter dybt.
 
 ![hullet](/images/IMG_20210623_181123.jpg)
+Tanken var at skubbe tanken ud på lægterne, få en 6 mand til at holde tanken oppe med seler, fjerne lægterne og sænke tanken ned i hullet.
+![klar til tanken](/images/IMG_20210628_154915.jpg)
+Tanken kunne desværre ikke blive leveret, så den blev sænket direkte ned i hullet, selvom det havde været optimalt. Så den blev stillet så langt inde i haven det kunne lade sig gøre.
+Så måtte vi bære den resten af vejen hen til hullet. En tur der ikke var speciel nem, da der flere steder kun lige præcis var bredt nok.
+Som tanken stod der på jorden virkede den rigtig stor. 
+![tanken inden den kom i hullet](/images/IMG_20210628_111429.jpg)
+Planen med at sænke tanken ned efter lægterne blev fjerne, viste sig meget hurtigt ikke at være realistisk. Det er simpelthen ikke muligt at holde tanken svævende på den måde.
+Vi endte derfor med at ligge lægternes ene ende ned i hullet og så kure den ned af lægterne, trække lægterne op og få vippet tanken på plads nede i hullet. 
+![tanken](/images/IMG_20210628_175404.jpg)
+Nu da tanken stod i hullet og var i vater, så var det tid til at få fyldt hullet op med jord - en opgave, der viste sig at være hårdere end at grave jorden op af hullet. 
+Måske fordi jeg gjorde det over færre dage, og at det var mere intenst, at køre trillebøren til ved jordbunken, grave jord op i og køre hen og vippe det i hullet.
+Det gik umiddelbart relativt hurtigt, og efterhånden som jorden kom op rundt om tanken blevet det stampet grundigt med en hjemmelavet stamper til formålet.
+![opfyldning af jord](/images/IMG_20210629_190804.jpg)
+![færdig med nedgravningen](/images/signal-2021-07-04-085851__01.jpg)
 
-
-...opdateres :-)
