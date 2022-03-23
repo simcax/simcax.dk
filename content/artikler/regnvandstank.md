@@ -19,6 +19,8 @@ Så en uges tid inden ferien startede, begyndte jeg at fjerne fliserne på terra
 Vi havde altid været lidt ærgerlige over terassen, men indtil nu havde det ikke været en prioritet at skifte belægning.
 Det blev så muligt med "Projekt Vandtank".
 ![belægning fjernes](/images/IMG_20210615_185322.jpg)
+![belægning er fjernet](/images/IMG_20210616_123351.jpg)
+![fliser stablet efter optagning](/images/IMG_20210616_160526.jpg)
 
 Jeg havde besluttet mig for at grave hullet selv, i hånden, med en skovl. Over årene har vi fået lavet en masse i haven, og det er ikke længere muligt at få en
 gravemaskine ind til terrassen. Derudover så er det jo god træning! Jorden kunne placeres lidt væk i haven rundt om et pæretræ, hvor restjorden på sigt skulle bruges til et bed.
@@ -49,3 +51,16 @@ Det gik umiddelbart relativt hurtigt, og efterhånden som jorden kom op rundt om
 ![opfyldning af jord](/images/IMG_20210629_190804.jpg)
 ![færdig med nedgravningen](/images/signal-2021-07-04-085851__01.jpg)
 
+Nu kunne næste fase af projektet gå igang. For regnvandet skulle bruges inde i huset, til både tøjvask og toiletskyl. Vi kontaktede et lokalt VVS firma, der selvfølgelig ikke havde tid i sommerferieperioden. 
+Vi aftalte at vi kunne blive stoppet ind i deres planer, hvis de kunne se der kom luft i planlægningen. 
+Allerede i starten af august vendte de tilbage, og jeg havde nu blot til dagen efter, til at få gravet fra tanken hen til hhv. kloak og huset hvor rørene skulle gå ind i vores kælder.
+Der var 3 rørføringer der skulle laves. 
+- 1 til sugeslangen til husvandværket
+- 1 til vand fra nedløbsrøret og ned i tanken
+- 1 kloakrør til overløbsvand, der skulle retur i kloakken
+
+Det gik relativt nemt at grave, indtil jeg stødte på en gammel betonbrønd, som var blevet efterladt i jorden.
+Den skulle op, og der skulle graves frit omkring den nuværende betonbrønd, som også skulle op og erstattes med en i plastik.
+
+![rende til kloakrør og sugeslange](/images/IMG_20210718_131927.jpg)
+![rende til kloakrør og sugeslange](/images/IMG_20210718_155347.jpg)
