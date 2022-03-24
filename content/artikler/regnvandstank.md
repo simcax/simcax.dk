@@ -64,3 +64,22 @@ Den skulle op, og der skulle graves frit omkring den nuværende betonbrønd, som
 
 ![rende til kloakrør og sugeslange](/images/IMG_20210718_131927.jpg)
 ![rende til kloakrør og sugeslange](/images/IMG_20210718_155347.jpg)
+
+Inde i huset skulle der et husvandværk op. Det er et specielt husvandværk, der kan skifte mellem vandværksvand og vand suget op fra regnvandstanken.
+Husvandværket er tilsluttet en føler ude i tanken, der giver målinger om hvor høj eller lav vandstanden er i tanken. Når vandstanden er for lav, 
+skifter husvandværket over på vand fra det almindelige vandværk. Det sker ved at en cisterne fyldes op med vand på samme måde som cisternen i et toilet.
+Dermed fyldes der ikke vanværksvand ud i regnvandstanken, og der kan kun være en liter i cisternen, så det er minimalt spild der er på den måde. Lige så snart der er vand i tanken igen, 
+vil vandet blive suget der fra. 
+
+En ting vi havde overset, var at husvandværket, skulle have et overløb til kloakken. Sådan en er der ikke i vores lille viktualiekælder.
+Derfor blev en af de tidskrævende (og dyre) ting, at få lavet et hul igennem fundamentet til både et kloakrør samt til sugeslangen fra tanken.
+
+![rør-til-kælder](/images/IMG_20210721_132230.jpg)
+![rør-og-brønd](/images/IMG_20210722_091004.jpg)
+![rør-og-brønd-tilsluttet](/images/IMG_20210722_172611.jpg)
+
+Husvandværket blev fint hængt op og tilsluttet nede i kælderen.
+![husvandværk1](/images/IMG_20210718_203256.jpg)
+![husvandværk2](/images/IMG_20210720_203158.jpg)
+![husvandværk3](/images/IMG_20210723_205020.jpg)
+![husvandværk4](/images/IMG_20210725_202451.jpg)
