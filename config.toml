@@ -33,3 +33,6 @@ url = "https://twitter.com/simcax"
 [[params.ananke_socials]]
 name = "github"
 url = "https://github.com/simcax"
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://instagram.com/skovcarsten_"
