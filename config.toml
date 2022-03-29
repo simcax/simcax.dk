@@ -1,6 +1,6 @@
 baseURL = 'https://www.simcax.dk/'
 languageCode = 'da-DK'
-title = 'Simcax.dk - a little corner of my web'
+title = 'Simcax.dk - gør det selv projekter'
 theme = "ananke"
 resourceDir = "../resources"
 
